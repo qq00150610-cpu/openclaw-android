@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Background circle -->
+    <path
+        android:fillColor="#6750A4"
+        android:pathData="M54,54m-40,0a40,40 0,1 1,80 0a40,40 0,1 1,-80 0" />
+    <!-- Paw print - main pad -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,62c-6,0 -10,-4 -10,-8c0,-5 4,-10 10,-10s10,5 10,10c0,4 -4,8 -10,8z" />
+    <!-- Paw print - toe 1 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M42,48c-2,-4 -1,-8 2,-9c3,-1 6,2 6,6c0,2 -1,4 -3,5c-2,1 -4,0 -5,-2z" />
+    <!-- Paw print - toe 2 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,42c-1,-4 1,-8 4,-8c3,0 5,3 5,7c0,2 -1,4 -3,5c-2,1 -5,0 -6,-4z" />
+    <!-- Paw print - toe 3 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M60,42c1,-4 3,-6 6,-5c3,1 4,4 3,8c-1,2 -2,4 -5,4c-2,0 -4,-2 -4,-7z" />
+    <!-- Paw print - toe 4 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M66,48c2,-4 4,-6 7,-4c3,2 3,5 1,9c-1,2 -3,3 -5,3c-3,0 -5,-3 -3,-8z" />
+</vector>
